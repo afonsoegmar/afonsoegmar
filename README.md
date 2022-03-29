@@ -12,7 +12,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: create a new project and find a new job.
 
  
 
@@ -28,5 +28,5 @@
 
 <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 [![afonsoegmar GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsoegmar)](https://github.com/afonsoegmar/github-readme-stats)
-<img align="right" width="400" height="400" src="https://lh3.googleusercontent.com/ogw/ADea4I5DfCkfwEyhSJbt8OAkqQYgRh7QIdjbajVgympWVA=s32-c-mo">
+<img align="right" width="400" height="400" src=""C:\Users\egmar\Downloads\github.jpg"">
 https://github.com/scotch-io/All-Github-Emoji-Icons/commit/45ad8ba1606a292ea06ef6d6c72aab19218b4f02
