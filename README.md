@@ -26,6 +26,13 @@
 [![afonsoegmar GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsoegmar)](https://github.com/afonsoegmar/github-readme-stats)
 [![Top langs GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsoegmar&layot=compact)](https://github.com/afonsoegmar/github-readme-stats)
 <code><img height= "20"src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+<code><img height= "20"src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height= "20"src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height= "20"src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height= "20"src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
+<code><img height= "20"src=	https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white"></code>
+<code><img height= "20"src= https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
+<code><img height= "20"src= https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 
 - Thanks for visiting.
 
