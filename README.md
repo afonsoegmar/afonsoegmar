@@ -21,6 +21,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/afonsoegmar/afonsoegmar)](https://github.com/afonsoegmar/afonsoegmar)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/egmar-afonso-dos-santos-65936414/)](https://www.linkedin.com/in/egmar-afonso-dos-santos-65936414/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AfonsoEgmar)](https://twitter.com/AfonsoEgmar)
+[![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https//https://www.instagram.com/egmarafonsodos/)](https://www.instagram.com/egmarafonsodos/)
 
 - Thanks for visiting.
 
