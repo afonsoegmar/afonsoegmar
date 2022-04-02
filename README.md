@@ -25,7 +25,7 @@
 ## language end tools:
 [![afonsoegmar GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsoegmar)](https://github.com/afonsoegmar/github-readme-stats)
 [![Top langs GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsoegmar&layot=compact)](https://github.com/afonsoegmar/github-readme-stats)
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 
 - Thanks for visiting.
 
