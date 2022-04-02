@@ -24,7 +24,7 @@
 [![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https//https://www.instagram.com/egmarafonsodos/)](https://www.instagram.com/egmarafonsodos/)
 ## language end tools:
 [![afonsoegmar GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsoegmar)](https://github.com/afonsoegmar/github-readme-stats)
-[![Top langs GitHub stats](https://github-readme-stats.vercel.app/api/tog-langs/?username=afonsoegmar&layot=compact)](https://github.com/afonsoegmar/github-readme-stats)
+[![Top langs GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsoegmar&layot=compact)](https://github.com/afonsoegmar/github-readme-stats)
 
 - Thanks for visiting.
 
