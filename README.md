@@ -23,8 +23,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoColor=white&link=https://twitter.com/AfonsoEgmar)](https://twitter.com/AfonsoEgmar)
 [![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https//https://www.instagram.com/egmarafonsodos/)](https://www.instagram.com/egmarafonsodos/)
 ## language end tools:
-[![Egmar GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/Egmar/github-readme-stats)
-[![Top langs GitHub stats](https://github-readme-stats.vercel.app/api/tog-langs/?username=Egmar&layot=compact)](https://github.com/egmar/github-readme-stats)
+[![afonsoegmar GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/afonsoegmar/github-readme-stats)
+[![Top langs GitHub stats](https://github-readme-stats.vercel.app/api/tog-langs/?username=afonsoegmar&layot=compact)](https://github.com/egmar/github-readme-stats)
 
 - Thanks for visiting.
 
