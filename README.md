@@ -25,7 +25,7 @@
 ## language end tools:
 <div>
 <a href="https://github.com/https://github.com/afonsoegmar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/afonsoegmari&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/afonsoegmar&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/afonsoegmar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <code><img height= "20"src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
