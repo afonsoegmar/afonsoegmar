@@ -35,6 +35,7 @@
 <code><img height= "20"src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></code>
 
  
 - Thanks for visiting.
