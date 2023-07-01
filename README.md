@@ -40,6 +40,7 @@
 <code><img height= "20"src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
-- Thanks for visiting.
+
+ - Thanks for visiting.
 
 - Enjoy it!! o/
