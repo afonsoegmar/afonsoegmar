@@ -41,14 +41,14 @@
 <code><img height= "20"src= "https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"></code>
+ <code><img height= "20"src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></code>
 
  - Thanks for visiting.
 
