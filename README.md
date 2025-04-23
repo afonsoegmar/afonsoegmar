@@ -36,6 +36,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsoegmar&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afonsoegmar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<code><img height= "20"src= "https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
@@ -47,7 +48,7 @@
 <code><img height= "20"src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></code>
 
  - Thanks for visiting.
 
