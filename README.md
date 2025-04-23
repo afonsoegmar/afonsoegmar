@@ -8,7 +8,7 @@
 
 💻 I'm a **Computer Engineer** and **Bachelor of Information Technology with an emphasis on IoT**, passionate about technology and development.   
 
-🌱 Currently diving deeper into machine learning, embedded systems, and modern web frameworks.  
+🌱 I’m currently exploring systems development, with hands-on experience in mobile applications, embedded solutions, and cutting-edge web frameworks. 
 
 💬 Ask me about types of artificial intelligence, IoT with ESP32.  
 
