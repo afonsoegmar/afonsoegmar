@@ -36,11 +36,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsoegmar&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afonsoegmar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<code><img height= "20"src= "https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height= "20"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></code>
