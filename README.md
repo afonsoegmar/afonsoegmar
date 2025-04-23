@@ -13,10 +13,15 @@
 💬 Ask me about types of artificial intelligence, IoT with ESP32, React, and Next.js.  
 
 📚 I’ve completed two final papers during my studies:  
-- A research project on **types of Artificial Intelligence**  
-- A thesis in **Information Technology with emphasis on IoT**, focused on the **use of Internet of Things technologies**  
-📫 Contact: egmar.afonso@gmail.com  
+
+- A research project on **types of Artificial Intelligence**
+-  
+- A thesis in **Information Technology with emphasis on IoT**, focused on the **use of Internet of Things technologies**
+- 
+📫 Contact: egmar.afonso@gmail.com
+
  📎 LinkedIn: [Egmar Tecnologia](https://www.linkedin.com/in/egmar-tecnologia/)  
+ 
 ✨ *"Perseverance and simplicity guide me in every project."*
 
 ## About me
