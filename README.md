@@ -2,19 +2,22 @@
 
  
 
-## I'm (Egmar)!
+# 👋 Hi there! I'm Egmar
 
  
 
-:computer: I'm Front-End Developer!
+💻 I'm passionate about technology and development, with experience ranging from web applications to IoT and neural networks.  
 
-:house_with_garden: I’m from Brazil.
+🌱 Currently diving deeper into machine learning, embedded systems, and modern web frameworks.  
 
-:books: I’m currently learning everything.
+💬 Ask me about types of artificial intelligence, IoT with ESP32, React, and Next.js.  
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
-
- 
+📚 I’ve completed two final papers during my studies:  
+- A research project on **types of Artificial Intelligence**  
+- A thesis in **Information Technology with emphasis on IoT**, focused on the **use of Internet of Things technologies**  
+📫 Contact: egmar.afonso@gmail.com  
+ 📎 LinkedIn: [Egmar Tecnologia](https://www.linkedin.com/in/egmar-tecnologia/)  
+✨ *"Perseverance and simplicity guide me in every project."*
 
 ## About me
 
@@ -22,12 +25,13 @@
 [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/egmar-afonso-dos-santos-65936414/)](https://www.linkedin.com/in/egmar-afonso-dos-santos-65936414/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoColor=white&link=https://twitter.com/AfonsoEgmar)](https://twitter.com/AfonsoEgmar)
 [![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https//https://www.instagram.com/egmarafonsodos/)](https://www.instagram.com/egmarafonsodos/)
-## language end tools:
+## 🛠️ Technologies & Tools
 <div>
 <a href="https://github.com/afonsoegmar">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsoegmar&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afonsoegmar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+ ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
